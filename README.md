@@ -1,2 +1,10 @@
 # A-Starting-of-My-learning-Journey-
-This is a portfolio website which is made by me with the help of Gemini ( AI ) To boost my spirit and my learning journey. It help all to make and learn from AI 
+A premium , modern portfolio website designed to showcase learning process , milestones, and projects.
+## Features
+- **Modern UI**: Dark-themed with glassmorphism and neon accents.
+- **Interactive Roadmap**: A visual timeline of learning milestones.
+- **Project Showcase**: Sleek cards for displaying built projects.
+- **Skill Chips**: Interactive skill badges.
+- **Fully Responsive**: Optimized for all screen sizes.
+- **No Dependencies**: Built with pure HTML, CSS, and Vanilla JS.
+
